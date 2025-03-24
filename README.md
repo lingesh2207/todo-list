@@ -12,7 +12,7 @@ This project helps users manage their tasks efficiently by adding, updating, and
 
 ## 🚀 Technologies Used  
 - **HTML** – Structure of the webpage  
-- **CSS** – Styling for a clean and modern UI  
+- **CSS** – Styling for a clean and modern UI  .
 - **JavaScript** – Logic for managing tasks  
 
 ## 📌 Learning Source  
