@@ -22,5 +22,8 @@ This project was created while learning from **InspireLeap**.
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/c1e10c6a-54d5-418a-9f25-4055e5ca4f5f)
 
+![Screenshot (3)](https://github.com/user-attachments/assets/2a59bdc0-31dc-42fc-880d-6650167d6393)
+
+
 
 
